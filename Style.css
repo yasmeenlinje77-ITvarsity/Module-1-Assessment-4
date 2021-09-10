@@ -1,0 +1,22 @@
+h1{
+    color: rgb(155, 160, 155);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+table{
+font-family: Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+border-width: 1px;
+border-style: solid;
+border-color: blanchedalmond;
+
+}
+
+body {
+ background-image: linear-gradient(to bottom right, #33475b,#0033CC,#FF77CC,rgb(255,122,89));
+}
+
+html{
+    height: 100%;
+}
